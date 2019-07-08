@@ -1,5 +1,5 @@
 # When USB devices Attack
-# BSides Workshop 2018
+# BSides / Steelcon Workshop
 
 Requirements for the Workshop
 -----------------------------
